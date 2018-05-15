@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "pk_test_51GvzQ8LG1c5o9Wnq6jfpJGKZoc8ycMWO0gUpltLlSm6WqcmTByaiPea0DaFt0wki8H4O9igqBrxUHDNljnozpuvW00cdC2OWd2",
+      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://nagarjuna-ecommerce-api.vercel.app/shop/graphql"
+    }
+  }
+}
