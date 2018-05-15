@@ -27,11 +27,11 @@ const Footer = () => {
     <Box>
       <FormattedMessage
         id='siteFooter'
-        defaultMessage='PickBazar is a product of'
+        defaultMessage='This Site is a product of'
       />
       &nbsp;
       <a href='#' target='_blank'>
-        RedQ, Inc.
+        Nagarjuna Naidu.
       </a>
     </Box>
   );
