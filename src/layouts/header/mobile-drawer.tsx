@@ -160,8 +160,8 @@ const MobileDrawer: React.FunctionComponent = () => {
                   <img src={UserImage} alt="user_avatar" />
                 </UserAvatar>
                 <UserDetails>
-                  <h3>David Kinderson</h3>
-                  <span>+990 374 987</span>
+                  <h3>Nagarjuna Naidu</h3>
+                  <span>+91 9035120849</span>
                 </UserDetails>
               </LoginView>
             ) : (
